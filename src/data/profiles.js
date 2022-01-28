@@ -111,6 +111,26 @@ const profiles = [
     profileName: "codechef",
     profileUrl: "https://www.codechef.com/users/rakeshpotnuru1",
   },
+  {
+    profileName: "dribbble",
+    profileUrl: "https://dribbble.com/itsrakesh",
+  },
+  {
+    profileName: "behance",
+    profileUrl: "https://www.behance.net/itsrakesh",
+  },
+  {
+    profileName: "polywork",
+    profileUrl: "https://polywork.com/itsrakesh",
+  },
+  {
+    profileName: "linktree",
+    profileUrl: "https://linktr.ee/itsrakesh",
+  },
+  {
+    profileName: "findcoder",
+    profileUrl: "https://findcoder.io/itsrakesh",
+  },
 ];
 
 module.exports = profiles;

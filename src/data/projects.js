@@ -28,7 +28,7 @@ const projects = [
   {
     title: "Silver Screen",
     image:
-      "https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/499763c7a1c44c02a2e5c69f49f35013/projects/eab985cbac304d7a82db5d5e072c1c63/7439a05c-2138-44ac-be44-aa2d55992029.jpeg",
+      "https://i.ibb.co/nPCghYk/Localhost-Generic-Laptop-2021-26-9-at-12-23-48-PM-Large.jpg",
     repoName: "silverScreen-frontend",
     liveUrl: "https://silverscreen-2129f.web.app",
     techs: [
