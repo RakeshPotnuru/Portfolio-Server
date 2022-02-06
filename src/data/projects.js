@@ -2,7 +2,7 @@ const projects = [
   {
     title: "CampusMate",
     image:
-      "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/768/037/datas/original.jpg",
+      "https://ik.imagekit.io/itsrakesh/Portfolio/campusmate-mockup_zrODWFS6-3-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644130718344",
     repoName: "Campus-Mate",
     liveUrl: "https://campusmate-356fc.web.app/home",
     techs: [
@@ -28,7 +28,7 @@ const projects = [
   {
     title: "Silver Screen",
     image:
-      "https://i.ibb.co/nPCghYk/Localhost-Generic-Laptop-2021-26-9-at-12-23-48-PM-Large.jpg",
+      "https://ik.imagekit.io/itsrakesh/Portfolio/mockup_hisLcRKt5UiX.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644130353877",
     repoName: "silverScreen-frontend",
     liveUrl: "https://silverscreen-2129f.web.app",
     techs: [
@@ -54,7 +54,7 @@ const projects = [
   {
     title: "Portfolio",
     image:
-      "https://user-images.githubusercontent.com/70439799/149660033-475229da-96c7-46d1-b05d-c893a3946932.png",
+      "https://ik.imagekit.io/itsrakesh/Portfolio/mockup_2yl1LdmUH.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644125260329",
     repoName: "Portfolio",
     liveUrl: "https://itsrakesh.co",
     techs: [
@@ -72,8 +72,8 @@ const projects = [
         bg: "#fff",
       },
       {
-        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
-        title: "MongoDB",
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+        title: "Bootstrap",
       },
     ],
   },
