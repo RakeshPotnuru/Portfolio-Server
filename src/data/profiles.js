@@ -131,6 +131,18 @@ const profiles = [
     profileName: "findcoder",
     profileUrl: "https://findcoder.io/itsrakesh",
   },
+  {
+    profileName: "udemy",
+    profileUrl: "https://www.udemy.com/user/sai-rakesh-potnuru",
+  },
+  {
+    profileName: "ecency",
+    profileUrl: "https://ecency.com/@itsrakesh",
+  },
+  {
+    profileName: "microsoftlearn",
+    profileUrl: "https://docs.microsoft.com/en-us/users/itsrakesh/",
+  },
 ];
 
 module.exports = profiles;

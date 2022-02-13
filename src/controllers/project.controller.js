@@ -22,6 +22,15 @@ class ProjectController {
       throw new InternalServerException();
     }
   }
+
+  static getVideoId(repoName) {
+    try {
+      return ProjectService.getVideoId(repoName);
+    } catch (err) {
+      logger.error(err);
+      throw new InternalServerException();
+    }
+  }
 }
 
 module.exports = { ProjectController };

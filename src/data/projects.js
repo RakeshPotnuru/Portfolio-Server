@@ -5,6 +5,7 @@ const projects = [
       "https://ik.imagekit.io/itsrakesh/Portfolio/campusmate-mockup_zrODWFS6-3-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644130718344",
     repoName: "Campus-Mate",
     liveUrl: "https://campusmate-356fc.web.app/home",
+    videoId: "l6fuGTzPLi0",
     techs: [
       {
         url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
@@ -31,6 +32,7 @@ const projects = [
       "https://ik.imagekit.io/itsrakesh/Portfolio/mockup_hisLcRKt5UiX.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644130353877",
     repoName: "silverScreen-frontend",
     liveUrl: "https://silverscreen-2129f.web.app",
+    videoId: "kfCDwYprPhE",
     techs: [
       {
         url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",

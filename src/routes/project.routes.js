@@ -8,4 +8,8 @@ router.get("/projects", (req, res) => {
   res.json(ProjectController.getAllProjects());
 });
 
+router.get("/projects/video/:repoName", (req, res) => {
+  res.json(ProjectController.getVideoId(req.params.repoName));
+});
+
 module.exports = router;
