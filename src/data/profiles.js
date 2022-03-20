@@ -143,6 +143,14 @@ const profiles = [
     profileName: "microsoftlearn",
     profileUrl: "https://docs.microsoft.com/en-us/users/itsrakesh/",
   },
+  {
+    profileName: "codedamn",
+    profileUrl: "https://codedamn.com/user/itsrakesh",
+  },
+  {
+    profileName: "webdeveloper",
+    profileUrl: "https://webdeveloper.com/@itsrakesh/",
+  },
 ];
 
 module.exports = profiles;
