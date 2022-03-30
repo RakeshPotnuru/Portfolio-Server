@@ -59,6 +59,7 @@ const projects = [
       "https://ik.imagekit.io/itsrakesh/Portfolio/mockup_2yl1LdmUH.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644125260329",
     repoName: "Portfolio",
     liveUrl: "https://itsrakesh.co",
+    videoId: "ISLFpwYuQaA",
     techs: [
       {
         url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
