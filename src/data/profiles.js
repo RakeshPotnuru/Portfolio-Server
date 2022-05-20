@@ -124,10 +124,6 @@ const profiles = [
     profileUrl: "https://polywork.com/itsrakesh",
   },
   {
-    profileName: "linktree",
-    profileUrl: "https://linktr.ee/itsrakesh",
-  },
-  {
     profileName: "findcoder",
     profileUrl: "https://findcoder.io/itsrakesh",
   },
