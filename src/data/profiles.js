@@ -124,10 +124,6 @@ const profiles = [
     profileUrl: "https://polywork.com/itsrakesh",
   },
   {
-    profileName: "linktree",
-    profileUrl: "https://linktr.ee/itsrakesh",
-  },
-  {
     profileName: "findcoder",
     profileUrl: "https://findcoder.io/itsrakesh",
   },
@@ -142,6 +138,14 @@ const profiles = [
   {
     profileName: "microsoftlearn",
     profileUrl: "https://docs.microsoft.com/en-us/users/itsrakesh/",
+  },
+  {
+    profileName: "codedamn",
+    profileUrl: "https://codedamn.com/user/itsrakesh",
+  },
+  {
+    profileName: "webdeveloper",
+    profileUrl: "https://webdeveloper.com/@itsrakesh/",
   },
 ];
 

@@ -17,6 +17,7 @@ const BlogRoutes = require("./routes/blog.routes");
 const ProjectRoutes = require("./routes/project.routes");
 const ContactRoutes = require("./routes/contact.routes");
 const ProfileRoutes = require("./routes/profile.routes");
+const StatsRoutes = require("./routes/stats.routes");
 
 /**
  * declare application and load middleware
@@ -49,6 +50,7 @@ app.use("/api/blog", BlogRoutes);
 app.use("/api/project", ProjectRoutes);
 app.use("/api/contact", ContactRoutes);
 app.use("/api/profile", ProfileRoutes);
+app.use("/api/stats", StatsRoutes);
 
 /**
  * transform all errors into standard messages
