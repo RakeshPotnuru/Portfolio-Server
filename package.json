@@ -17,6 +17,6 @@
     "http-exception-transformer": "^1.2.3",
     "nodemailer": "^6.7.2",
     "nodemailer-sendgrid-transport": "^0.2.0",
-    "winston": "^3.5.0"
+    "winston": "^3.5.1"
   }
 }
