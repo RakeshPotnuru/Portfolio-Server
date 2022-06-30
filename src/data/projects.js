@@ -1,5 +1,27 @@
 const projects = [
   {
+    name: "Blog",
+    image:
+      "https://ik.imagekit.io/itsrakesh/Portfolio/blog-mockup_8n6Z-Xpxy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656583697436",
+    repoName: "Blog",
+    liveUrl: "https://blog.itsrakesh.co/",
+    techs: [
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
+        title: "NextJs",
+        bg: "#fff",
+      },
+      {
+        url: "https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg",
+        title: "Chakra-UI",
+      },
+      {
+        url: "https://pbs.twimg.com/profile_images/1240607161639632896/65lOOz86_400x400.jpg",
+        title: "GraphCMS",
+      },
+    ],
+  },
+  {
     title: "CampusMate",
     image:
       "https://ik.imagekit.io/itsrakesh/Portfolio/campusmate-mockup_zrODWFS6-3-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644130718344",
