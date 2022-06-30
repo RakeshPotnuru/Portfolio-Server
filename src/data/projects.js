@@ -1,6 +1,6 @@
 const projects = [
   {
-    name: "Blog",
+    title: "Blog",
     image:
       "https://ik.imagekit.io/itsrakesh/Portfolio/blog-mockup_8n6Z-Xpxy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656583697436",
     repoName: "Blog",
