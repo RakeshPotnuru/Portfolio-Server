@@ -15,7 +15,7 @@
     "dotenv": "^10.0.0",
     "express": "^4.17.2",
     "http-exception-transformer": "^1.2.3",
-    "nodemailer": "^6.7.2",
+    "nodemailer": "^6.7.3",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "winston": "^3.5.0"
   }
