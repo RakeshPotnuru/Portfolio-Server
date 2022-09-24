@@ -1,5 +1,30 @@
 const projects = [
   {
+    title: "Orbit Admin Panel",
+    image:
+      "https://ik.imagekit.io/itsrakesh/Portfolio/1x-pika-1664022683697_1Tpq8iO3D.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664022735970",
+    liveUrl: "https://orbit-itsrakesh.vercel.app/",
+    techs: [
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+        title: "React",
+      },
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+        title: "NodeJS",
+      },
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+        title: "ExpressJS",
+        bg: "#fff",
+      },
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+        title: "MongoDB",
+      },
+    ],
+  },
+  {
     title: "Blog",
     image:
       "https://ik.imagekit.io/itsrakesh/Portfolio/blog-mockup_8n6Z-Xpxy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656583697436",
