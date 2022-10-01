@@ -3,6 +3,7 @@ const projects = [
     title: "Orbit Admin Panel",
     image:
       "https://ik.imagekit.io/itsrakesh/Portfolio/1x-pika-1664022683697_1Tpq8iO3D.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664022735970",
+    repoName: "",
     liveUrl: "https://orbit-itsrakesh.vercel.app/",
     techs: [
       {
