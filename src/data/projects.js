@@ -1,5 +1,23 @@
 const projects = [
   {
+    title: "TickleLife Website",
+    image:
+      "https://ik.imagekit.io/itsrakesh/Portfolio/mockup_tgV6QfEef.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665843870324",
+    repoName: "",
+    liveUrl: "https://tickle-itsrakesh.vercel.app/",
+    techs: [
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
+        title: "NextJs",
+        bg: "#fff",
+      },
+      {
+        url: "https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg",
+        title: "Chakra-UI",
+      },
+    ],
+  },
+  {
     title: "Orbit Admin Panel",
     image:
       "https://ik.imagekit.io/itsrakesh/Portfolio/1x-pika-1664022683697_1Tpq8iO3D.png?ik-sdk-version=javascript-1.4.3&updatedAt=1664022735970",
