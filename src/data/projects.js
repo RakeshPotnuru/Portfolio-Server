@@ -4,7 +4,7 @@ const projects = [
     image:
       "https://ik.imagekit.io/itsrakesh/Portfolio/mockup_tgV6QfEef.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665843870324",
     repoName: "",
-    liveUrl: "https://tickle-itsrakesh.vercel.app/",
+    liveUrl: "https://home.tickle.life",
     techs: [
       {
         url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
