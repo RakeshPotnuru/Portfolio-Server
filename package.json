@@ -8,7 +8,7 @@
     "dev": "nodemon src/server.js"
   },
   "author": "Rakesh",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.25.0",
     "cors": "^2.8.5",
