@@ -1,5 +1,26 @@
 const projects = [
   {
+    title: "Palm Oil 360 game",
+    image:
+      "https://ik.imagekit.io/itsrakesh/Portfolio/pika-1678164126072-1x_-aQOmkd1TG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1678164205176",
+    repoName: "",
+    liveUrl: "https://palm-oil-itsrakesh.vercel.app/",
+    techs: [
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+        title: "React",
+      },
+      {
+        url: "https://vitejs.dev/logo.svg",
+        title: "Vite",
+      },
+      {
+        url: "https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg",
+        title: "Chakra-UI",
+      },
+    ],
+  },
+  {
     title: "TickleLife Website",
     image:
       "https://ik.imagekit.io/itsrakesh/Portfolio/mockup_tgV6QfEef.png?ik-sdk-version=javascript-1.4.3&updatedAt=1665843870324",
