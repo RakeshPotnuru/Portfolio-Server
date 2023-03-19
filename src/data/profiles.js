@@ -5,7 +5,7 @@ const profiles = [
   },
   {
     profileName: "linkedin",
-    profileUrl: "https://www.linkedin.com/in/itsrakeshdotco/",
+    profileUrl: "https://www.linkedin.com/in/potnururakesh",
   },
   {
     profileName: "github",
