@@ -1,5 +1,32 @@
 const projects = [
   {
+    title: "Publish Studio",
+    image:
+      "https://ik.imagekit.io/itsrakesh/Portfolio/1_XdnF0Wsnb.png?updatedAt=1716016723785",
+    repoName: "",
+    liveUrl: "https://publishstudio.one",
+    techs: [
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
+        title: "NextJs",
+        bg: "#fff",
+      },
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+        title: "ExpressJS",
+        bg: "#fff",
+      },
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+        title: "MongoDB",
+      },
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trpc/trpc-original.svg",
+        title: "tRPC",
+      },
+    ],
+  },
+  {
     title: "Palm Oil 360 game",
     image:
       "https://ik.imagekit.io/itsrakesh/Portfolio/pika-1678164126072-1x_-aQOmkd1TG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1678164205176",
