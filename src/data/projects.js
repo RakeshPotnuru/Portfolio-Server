@@ -1,9 +1,35 @@
 const projects = [
+   {
+    title: "My One Post",
+    image:
+      "https://ik.imagekit.io/itsrakesh/Portfolio/2_IRtYQl1Y9.png?updatedAt=1734786230933",
+    repoName: "",
+    liveUrl: "https://myonepost.com",
+    techs: [
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
+        title: "NextJs",
+        bg: "#fff",
+      },
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+        title: "NestJS",
+      },
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg",
+        title: "Supabase",
+      },
+      {
+        url: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg",
+        title: "GCP",
+      },
+    ],
+  },
   {
     title: "Publish Studio",
     image:
       "https://ik.imagekit.io/itsrakesh/Portfolio/1_XdnF0Wsnb.png?updatedAt=1716016723785",
-    repoName: "",
+    repoName: "publish-studio",
     liveUrl: "https://publishstudio.one",
     techs: [
       {
